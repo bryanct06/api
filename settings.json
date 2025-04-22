@@ -34,7 +34,7 @@
       "name": "Cek Status",
       "desc": "Cek status payment",
       "status": "Active",
-      "path": "/orderkuota/cekstatus?apikey=&merchant=&keyorkut="
+      "path": "src/orderkuota/cekstatus?apikey=&merchant=&keyorkut="
     }
   ],
   "downloader": [
