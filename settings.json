@@ -28,7 +28,7 @@
       "name": "Create Payment",
       "desc": "Create qris payment",
       "status": "Active",
-      "path": "src/orderkuota/createpayment?apikey=&amount=&codeqr="
+      "path": "/src/orderkuota/createpayment?apikey=&amount=&codeqr="
     },
     {
       "name": "Cek Status",
