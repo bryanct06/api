@@ -1,12 +1,12 @@
 {
-  "creator": "Skyzopedia",
-  "whatsapp": "https://wa.me/6285624297893",
-  "github": "https://whatsapp.com/channel/0029Vb8cgMEH5JLqiOEdbH1t",
-  "youtube": "https://youtube.com/@skyzopedia?si=dbkhseqSJWqQIIdv",
-  "apititle": "Skyzopedia Api",
-  "pagetitle": "Skyzopedia Api",
+  "creator": "IDPrideHost",
+  "whatsapp": "https://wa.me/6283192830198",
+  "github": "-",
+  "youtube": "-",
+  "apititle": "IDPH Api",
+  "pagetitle": "IDPH Api",
   "apikey": [
-    "idpridehost"
+    "idph"
   ], 
   "endpoints": {
   "openai": [
